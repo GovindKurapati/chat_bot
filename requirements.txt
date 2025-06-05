@@ -1,0 +1,4 @@
+google-generativeai
+jupyterlab
+gradio
+dotenv
