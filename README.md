@@ -1,3 +1,5 @@
+![Chatbot UI Screenshot](./demo.png)
+
 # 🤖 Simple + Multi-LLM Chatbot with Streaming
 
 A simple web-based chatbot interface built with [Gradio](https://gradio.app) that supports multiple large language models (LLMs):
@@ -83,8 +85,6 @@ The Gradio interface will launch in your browser. Choose a model from the dropdo
 ---
 
 <!-- ## 📌 Example -->
-
-<!-- <img src="https://github.com/yourusername/multi-llm-chatbot/assets/demo.gif" width="600"> -->
 
 <!-- --- -->
 
