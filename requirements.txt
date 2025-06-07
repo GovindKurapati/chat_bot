@@ -2,3 +2,7 @@ google-generativeai
 jupyterlab
 gradio
 dotenv
+openai
+requests
+anthropic
+ollama
